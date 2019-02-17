@@ -1,2 +1,2 @@
 # ml_projects
-Machine Learning Practice Projects
+Machine Learning and DL Practice Projects 
